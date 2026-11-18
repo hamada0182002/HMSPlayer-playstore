@@ -14,7 +14,7 @@ android {
 
     defaultConfig {
         applicationId = "com.hms.player"
-        minSdk = 21
+        minSdk = 24
         targetSdk = 36
         versionCode = appVersionCode
         versionName = appVersion
