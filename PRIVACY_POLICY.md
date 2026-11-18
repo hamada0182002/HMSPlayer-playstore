@@ -18,7 +18,7 @@ HMS Player is a media player that connects to IPTV (Xtream Codes) servers **that
 
 **Deleting your data:** uninstall the app, or clear its data from Android settings, or delete accounts inside the app.
 
-**Contact:** [your email here]
+**Contact:** \[yahyaz6503@gmail.com]
 
 ## العربية
 
@@ -36,4 +36,5 @@ HMS Player مشغّل وسائط بيتصل بسيرفرات IPTV (Xtream Codes)
 
 **حذف بياناتك:** احذف التطبيق، أو امسح بياناته من إعدادات أندرويد، أو احذف الحسابات من داخل التطبيق.
 
-**التواصل:** [ضع بريدك هنا]
+**التواصل:** \[yahyaz6503@gmail.com]
+
